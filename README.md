@@ -1,1 +1,2 @@
 # BancoDeDados
+Banco de Dados construido utilizando python e bibliotecas como pandas, tkinter e sql . Além de cadastrar os dados do cliente ele consegue se conectar diretamente com o excel criando uma planilha com esses dados caso seja preciso.
